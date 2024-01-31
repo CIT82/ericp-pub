@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: rgb(1, 166, 216);
-    color:rgb(0, 0, 0);
+    background-color: rgb(107, 198, 226);
+    color:rgb(17, 17, 17);
     padding: 10px 0px;
     /*border: 10px rgb(0, 0, 0) dashed; */
 }
@@ -15,12 +15,12 @@ header {
 main {
     margin: 15px;
     padding: 15px;
-    background-color: rgba(125, 185, 197, 0.61);
+    background-color: rgba(0, 213, 255, 0.61);
 }
 
 footer {
     background-color: #000000;
-    color: white;
+    color: rgb(233, 14, 14);
     padding: 10px 0;
 }
 
@@ -29,6 +29,10 @@ label {
 }
 
 .outline {
-    border: 1px black solid;
+    border: 1px rgb(0, 0, 0) solid;
+}
+
+body {
+    background-color: rgb(0, 255, 255);
 }
 
