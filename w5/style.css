@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9b9696;
+}
+
+header {
+    background-color: #030303;
+    color: #ee3f3f;
+    padding: 15px;
+    text-align: center;
+}
+
+nav {
+    background-color: #eee;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+li::after {
+    content: '/';
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #666;
+}
+
+li:last-child::after {
+    content: none;
+}
+
+.content {
+    padding: 20px;
+}
