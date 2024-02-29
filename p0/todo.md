@@ -1,15 +1,15 @@
-- [ ] Change the title from Clean blog to Jojo Bizarre Adventure
-- [ ] Below it, I would have to change A blog theme by start bootstrap to Tale of heroic Joestar family against evil!
-- [ ] The background img will be changed to a picture which will showcase Jojo Bizarre adventure picture that I decide on
-- [ ] I plan on removing the Contact page
-- [ ] About me section would be change to The Author of the manga and summary of their work on the series
+- [x] Change the title from Clean blog to Jojo Bizarre Adventure
+- [x] Below it, I would have to change A blog theme by start bootstrap to Tale of heroic Joestar family against evil!
+- [x] The background img will be changed to a picture which will showcase Jojo Bizarre adventure picture that I decide on
+- [x] I plan on removing the Contact page
+- [x] About me section would be change to The Author of the manga and summary of their work on the series
 - [ ] I would not need the twitter, facebook and github icons
-- [ ] In the home page, there are other pages which will take you to a different page
-- [ ] So far, I thought of having 9 parts. The 9 parts are different seasons of the story that takes place and will do a summary of it.
+- [x] In the home page, there are other pages which will take you to a different page
+- [x] So far, I thought of having 9 parts. The 9 parts are different seasons of the story that takes place and will do a summary of it.
 - [ ] I will change the color and the style.css to something to my liking
 - [ ] Add some gifs
 - [ ] Add some youtube videos
-- [ ] Add a section to the website of the art work done by the Author
-- [ ] Remove old and add new images
-- [ ] Add a references of the work the author got inspired by
+- [x] Add a section to the website of the art work done by the Author
+- [x] Remove old and add new images
+- [x] Add a references of the work the author got inspired by
 - [ ] Add a family tree to my website if possibile
